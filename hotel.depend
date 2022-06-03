@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654213166 source:c:\users\abderraouf\desktop\hotel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+	"hote.c"
+
+1654215196 c:\users\abderraouf\desktop\hotel\hotel.h
+
+1654217109 c:\users\abderraouf\desktop\hotel\hote.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+
